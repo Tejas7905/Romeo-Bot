@@ -3,7 +3,7 @@ import streamlit as st
 from groq import Groq
 
 # Set your API key
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 client = Groq(api_key=GROQ_API_KEY)
 
 st.title("Tejas's Flirty Replies Generator")
